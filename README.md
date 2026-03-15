@@ -1,20 +1,22 @@
-# Beginners' Introduction to Game System Design
+# Beginners' Introduction To Video Game System Design
 
 
 ![Status: Educational](https://img.shields.io/badge/Status-Educational-brightgreen)
 
-A friendly introduction to understanding the fundamental concepts of Game System Design. This guide is designed for beginners, students, and developers seeking a clear conceptual foundation before diving into game mechanics or system architecture.
+A friendly introduction to understanding the fundamental concepts of Video Game System Design. This guide is designed for beginners, students, and developers.
 
 ---
 
 ## 📑 Table of Contents
-* [What Is Play?](#-what-is-play)
-* [Play vs. Survival](#-play-vs-survival-work)
-* [What Are Games?](#-what-are-games)
-* [The Hierarchy of Play](#-the-hierarchy-of-play)
+* [The Human Survival Graph](#the-human-survival-graph)
+* [What Is Play?](#what-is-play)
+* [The Hierarchy of Play](#the-hierarchy-of-play)
+* [Well-known academic definition of games](#well-known-definitions)
+* [Problem with academic definition of games](#problem-with-definitions)
+* [What Are Video Games (2026)?](#what-are-video-games)
 
 ---
-
+<a name="the-human-survival-graph"></a>
 ## The Human Survival Graph (Simplified)
 ```mermaid
 graph TD
@@ -45,6 +47,7 @@ The rehearsal / training / bonding / creativity system that builds the skills an
 Notice how **Play**  and **Hunting**  is parallel to each other. Hunting´s goal is to kill or survive (biological survival). 
 But what about play?
 
+<a name="what-is-play"></a>
 ## ✨ What Is Play?
 
 Play is the broadest and most fundamental concept in this hierarchy. It is the soil from which games grow.
@@ -69,7 +72,7 @@ To understand Play, it helps to look at its opposite: **Hunting**
 | **Outcome** | Mostly Fair | Not fair |
 
 ---
-
+<a name="the-hierarchy-of-play"></a>
 ## 🌳 The Hierarchy of Play
 
 Below is just an example of how play can be categorized and how these concepts relate to one another, moving from unstructured freedom to highly structured systems. 
@@ -105,7 +108,7 @@ You might instantly connect video games to these categories.
 A game can even fit in many different play categories. Which make it all very complex.
 
 ---
-
+<a name="well-known-definitions"></a>
 ## Well-known academic definition of games
 
 ### Bernard Suits.
@@ -154,6 +157,7 @@ Notice that many definitions are the same, for example everyone agree upon that 
 
 ---
 
+<a name="problem-with-definitions"></a>
 ## Problem with academic definition of games
 Time moves on. Video games is a also a new concepts that sometimes breaks the old definition of a game.
 For example older definitions struggled with the video game concepts like:
@@ -164,6 +168,7 @@ For example older definitions struggled with the video game concepts like:
 
 ---
 
+<a name="what-are-video-games"></a>
 ## 🎲 What Are Video Games (2026)?
 
 A video game is a **rule-based interactive system** where players can influence uncertain outcomes through their actions while pursuing goals or evaluative states.
