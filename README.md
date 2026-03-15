@@ -3,7 +3,10 @@
 
 ![Status: Educational](https://img.shields.io/badge/Status-Educational-brightgreen)
 
-A friendly introduction to understanding the fundamental concepts of Video Game System Design. This guide is designed for beginners, students, and developers.
+A friendly introduction to understanding the fundamental concepts of Video Game System Design. This guide is designed for beginners.
+
+> [!IMPORTANT]
+> Information have been collected from multiple sources(Internet,books,own experience) and AI has been used to create a well-structured presentation.
 
 ---
 
@@ -13,11 +16,15 @@ A friendly introduction to understanding the fundamental concepts of Video Game 
 * [The Hierarchy of Play](#the-hierarchy-of-play)
 * [Well-known academic definition of games](#well-known-definitions)
 * [Problem with academic definition of games](#problem-with-definitions)
+* [What Are Games?](#what-are-games)
 * [What Are Video Games (2026)?](#what-are-video-games)
 
 ---
 <a name="the-human-survival-graph"></a>
 ## The Human Survival Graph (Simplified)
+> It all starts with us, because play has been with humans since the very beginning, right next to breathing, drinking, eating, and staying safe. While our bodies fought to survive, our minds used play to experiment, learn, and connect with others.
+
+
 ```mermaid
 graph TD
     Root[Survival] --> Basics[Body basics]
@@ -41,8 +48,12 @@ The non-negotiable floor of staying alive minute-to-minute and day-to-day
 
 * **Hunting/Gathering** 
 The active, effortful acquisition of calories and resources (what actually keeps the body basics going long-term)
+
 * **Play** 
-The rehearsal / training / bonding / creativity system that builds the skills and social glue needed for everything else to work reliably.
+looks “unnecessary” on the surface, but it secretly supports survival:
+    - It trains skills before we need them in real life (like practice mode for danger).
+    - It builds social bonds so groups can cooperate, trust each other, and share resources.
+    - It lets us test ideas and strategies in a low-risk way, instead of gambling with real life.
 
 Notice how **Play**  and **Hunting**  is parallel to each other. Hunting´s goal is to kill or survive (biological survival). 
 But what about play?
@@ -55,7 +66,6 @@ Play is the broadest and most fundamental concept in this hierarchy. It is the s
 **Key Characteristics of Play:**
 * **Voluntary:** No one can be forced to play; it is a choice.
 * **Exploratory:** It involves testing boundaries and expressing creativity.
-* **Outcome:** All invlolved have an impact on the outcome.
 * **Artifical rules:** Rules are agreed upon at the begining.
 * **Low Stakes:** It is not tied to immediate productivity or biological survival.
 
@@ -106,6 +116,8 @@ You might instantly connect video games to these categories.
 * **Performance Play:** Just Dance,Comedy Night
 
 A game can even fit in many different play categories. Which make it all very complex.
+
+So what is a game then?
 
 ---
 <a name="well-known-definitions"></a>
@@ -168,11 +180,28 @@ For example older definitions struggled with the video game concepts like:
 
 ---
 
+<a name="what-are-games"></a>
+## 🎲 What Are Games?
+
+A game is a structured kind of play.
+
+1. **🎯 Rules:** You can do some things and not others (in chess pieces move in certain ways, in football you cannot use your hands, etc.).
+
+2. **🕹️ Agency:** Your decisions matter for what happens next (which card to play, where to move, how to aim).
+
+3. **🏆 Goals:** Something you are trying to achieve (win, score points, reach the end, survive, solve a puzzle).
+
+4. **🔔 Outcome:** Someone wins/loses, or you did better/worse, or you reached/didn’t reach the goal.
+
+5. **✅ Voluntary Participation:** You’re doing it because you chose to, usually for fun, challenge, or social reasons.
+
+---
+
 <a name="what-are-video-games"></a>
 ## 🎲 What Are Video Games (2026)?
 
-A video game is a **rule-based interactive system** where players can influence uncertain outcomes through their actions while pursuing goals or evaluative states.
-
+A video game is just a game that lives inside a computer, console, phone, etc.
+Same core ideas as a game but with a specific wrapper.
 ---
 
 ### 📝 Core Components of a Video Game
@@ -185,7 +214,7 @@ A video game is a **rule-based interactive system** where players can influence 
 2. **🕹️ Agency:** Players have meaningful control over outcomes.
 
    - Pure luck alone does not create a game. For example, rolling a die and awarding the highest number offers no player influence.
-   - If players can make choices that affect the outcome (e.g., multiple rolls, modifying dice), their decisions influence the result.
+   - If players can make choices that affect the outcome (e.g., multiple rolls, modifying dice, first to 21 by adding/subtracting), their decisions influence the result.
 
 3. **🏆 Goals:** Clear objectives, progress states, or challenges.
 
@@ -193,7 +222,7 @@ A video game is a **rule-based interactive system** where players can influence 
    - Progression goals: unlocking abilities, exploring worlds, improving characters.
    - Player-defined goals: sandbox games like **Minecraft** let players create their own objectives through building, exploration, or experimentation.
 
-4. **🔔 Feedback:** The game responds to player actions.
+4. **🔔 Outcome:** The game responds to player actions.
 
    - Actions produce meaningful responses from the system.
    - Feedback can be **visual, audio, mechanical, or systemic** (animations, sounds, score updates, UI changes, world reactions).
@@ -217,6 +246,7 @@ A video game is a **rule-based interactive system** where players can influence 
 | ❌ Movie | Viewer cannot influence outcome. |
 | ✅ Detroit: Become Human | Story-driven, cinematic, player choices affect outcome. |
 | ✅ The Last of Us Part I / II | Fixed cutscenes, but gameplay decisions influence progression. |
+
 
 ---
 
