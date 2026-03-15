@@ -202,7 +202,7 @@ A game is a structured kind of play.
 
 A video game is just a game that lives inside a computer, console, phone, etc.
 Same core ideas as a game but with a specific wrapper.
----
+
 
 ### 📝 Core Components of a Video Game
 
